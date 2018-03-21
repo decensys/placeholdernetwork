@@ -14,7 +14,7 @@ I want to get latest block hash from explorer API
 
 402 Payment Required: Please provide signed transaction or receipt
 
-`GET https://exlporer.placeholder.network/api/v1/access/token -H signed transaction, publicKey`
+`GET https://exlporer.placeholder.network/api/v1/access/token -H signedTransaction, publicKey`
 
 200 OK: `operationId`
 
